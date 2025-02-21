@@ -1,5 +1,5 @@
 # TSP-Solver 
-I made this project in 6th semester of college
+I Made This Project In 6th Semester Of College
 
 # TSP Solver 🔥  
 A web-based solution to solve the **Traveling Salesman Problem (TSP)** using HTML, CSS, and JavaScript.  
